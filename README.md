@@ -1,23 +1,44 @@
-# Ciao, sono Gianluca 👋
+<div align="center">
 
-Costruisco software lavorando con agenti IA.
+# Hi, I'm Gianluca 👋
 
-## Chi sono
+**I build small, lightweight tools, mostly for Windows, and I ship them tested on real hardware.**
 
-Facevo il cuoco e non ho una laurea in informatica: quello che trovi qui nasce da curiosità, testardaggine e tanto lavoro con gli agenti IA. Io decido cosa costruire, come provarlo e quando è finito; gran parte del codice lo scrive l'IA sotto la mia direzione.
+📍 Rome, Italy
 
-Non pubblico niente che non ho provato: test, misure e prove sull'hardware vero.
+</div>
 
-- 📍 Roma
-- 🛠️ Strumenti piccoli e leggeri, soprattutto per Windows
-- 🤖 Lavoro con Claude Code
+### About me
 
-## Cosa trovi qui
+Self-taught. I decide what to build, how to test it and when it's done; most of the code is written by AI agents under my direction, with Claude Code.
 
-Non aspettarti il codice di un ingegnere con vent'anni di esperienza. Trovi progetti che funzionano, che uso ogni giorno e che so spiegare.
+### Tools I work with
 
-| Progetto | Cosa fa | Cosa mi ha insegnato |
-|---|---|---|
-| [DemonNapse](https://github.com/gian0052/DemonNapse) | Gli effetti luce di un mouse Razer senza tenere acceso il software ufficiale: da 800 MB a 2 MB di memoria | Ricostruire il comportamento di un programma chiuso misurandolo, parlare con l'hardware via USB, pubblicare una release |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=rust,windows,powershell,git,github,unity,blender&perline=7" alt="Rust, Windows, PowerShell, Git, GitHub, Unity, Blender" />
+</div>
 
-Altri progetti arrivano man mano che li sistemo.
+### Projects
+
+<div align="center">
+  <a href="https://github.com/gian0052/DemonNapse">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gian0052&repo=DemonNapse&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=gian0052&repo=DemonNapse&hide_border=true" alt="DemonNapse" />
+    </picture>
+  </a>
+</div>
+
+**DemonNapse** keeps your Razer mouse's lighting effects running without the official software: from 800 MB down to 2 MB of memory.
+It taught me how to reverse-engineer a closed program by measuring its behaviour, talk to hardware over USB and ship a release.
+
+More projects will show up as I tidy them up.
+
+### Languages
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gian0052&layout=compact&theme=github_dark&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gian0052&layout=compact&hide_border=true" alt="Top languages" />
+  </picture>
+</div>
