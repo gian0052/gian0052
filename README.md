@@ -29,7 +29,7 @@ Self-taught. I decide what to build, how to test it and when it's done; most of 
   </a>
 </div>
 
-**DemonNapse** keeps your Razer mouse's lighting effects running without the official software: from 800 MB down to 2 MB of memory.
+**DemonNapse** keeps your Razer mouse's lighting effects running without the official software: from about 600 MB down to 2 MB of memory.
 It taught me how to reverse-engineer a closed program by measuring its behaviour, talk to hardware over USB and ship a release.
 
 More projects will show up as I tidy them up.
